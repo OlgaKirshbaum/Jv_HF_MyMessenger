@@ -46,6 +46,6 @@ CreateMessageActivity.
 -------------------------------
 ИЗОБРАЖЕНИЕ ПРИЛОЖЕНИЯ: 
 
-![photo_2021-06-01_10-28-32](https://user-images.githubusercontent.com/77355204/120284069-896e0700-c2c4-11eb-848f-f40dcc5d3b68.jpg)
 ![photo_2021-06-01_10-28-33](https://user-images.githubusercontent.com/77355204/120284072-8a069d80-c2c4-11eb-956b-0d168d10c4d2.jpg)
+![photo_2021-06-01_10-28-32](https://user-images.githubusercontent.com/77355204/120284069-896e0700-c2c4-11eb-848f-f40dcc5d3b68.jpg)
 
