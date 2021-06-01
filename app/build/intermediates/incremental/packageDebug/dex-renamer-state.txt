@@ -1,4 +1,0 @@
-#Fri May 28 15:30:03 MSK 2021
-base.0=D\:\\ProjectsAndroidArima\\MyProjectArima\\TrainingProjects\\Jv_HF_MyMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=D\:\\ProjectsAndroidArima\\MyProjectArima\\TrainingProjects\\Jv_HF_MyMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
