@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="send">Отправить сообщение через приложение по выбору </string>
+    <string name="send2">Отправить сообщение во второе активити </string>
+    <string name="hint">Введите сообщение</string>
+    <string name="chooser">Send message via...</string>
+    <string name="title_activity_receive_message">Второе активити</string>
+    <string name="hint2">Здесь будет выведено сообщение</string>
+</resources>
